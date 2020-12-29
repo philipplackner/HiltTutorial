@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiltTutorial</string>
+    <string name="string_to_inject">This is a string we will inject as well</string>
+</resources>
